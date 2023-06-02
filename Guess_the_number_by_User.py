@@ -13,7 +13,7 @@ while again:
         if(hads < javab):
             print('bozorgtar')
         if(hads == javab):
-            print('wowowwwowow!!!!You Did It!!!!')
+            print('wowowwwowow!!!!\nYou are Eloon Musk')
             break
     b = input('play Again ? ')
     if(b == 'Yes'):
